@@ -1,1 +1,2 @@
-print("SOsi")
+import numpy
+print("dolbaeb!")
